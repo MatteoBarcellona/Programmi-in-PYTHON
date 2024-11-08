@@ -1,0 +1,14 @@
+num = int(input("Inserisci un numero: "));
+num2 = int(input("Inserisci un numero: "));
+somma=0;
+sottrazione=0;
+moltipliacazione=0;
+divisione=0;
+somma=num+num2;
+sottrazione=num-num2;
+moltipliacazione=num*num2;
+divisione=num/num2;
+print("La somma è :", somma);
+print("La sottrazione è :",sottrazione);
+print("La moltiplicazione è :",moltipliacazione);
+print("La divisione è :",divisione);
